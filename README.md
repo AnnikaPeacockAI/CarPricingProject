@@ -37,3 +37,7 @@ Understand market trends and consumer preferences.
 Optimize stock based on models that provide the best value or return.
 # Conclusion
 Year and odometer reading matter a lot compared to other car features. Combined, they are responsible for over a 3rd of price variation in used cars. But between the two, year is significantly more impactful on price than odometer reading, according to the findings in this large dataset. 
+
+### License
+This project is licensed under the Apache 2.0 License - see the LICENSE.md file for details
+
