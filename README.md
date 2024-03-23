@@ -1,6 +1,6 @@
 # Car Pricing Project: Used Car Price Analysis for Automobile Dealers
 ## Project Overview
-This project is part of a practical application initiative designed for an AI/ML course at UC Berkeley, targeting automobile dealers aiming to optimize their inventory pricing strategies. Through this exercise, we delve into a comprehensive dataset to unveil critical insights into factors affecting used car prices, focusing on the impact of a vehicle's manufacturing year ('year') and mileage ('odometer').
+This project is part of a practical application initiative designed for an AI/ML course at UC Berkeley, targeting automobile dealers aiming to optimize their inventory pricing strategies. Through this exercise, we delve into a comprehensive dataset to unveil critical insights into factors affecting used car prices, focusing on the impact of a vehicle's manufacturing year ('year') and mileage ('odometer').  The code can be found here: https://github.com/AnnikaPeacockAI/CarPricingProject/blob/main/CarPrices.ipynb 
 
 ## Objective
 Our primary goal is to dissect the relative influence of the manufacturing year and mileage on the market price of used vehicles. Understanding these dynamics will empower automobile dealers to make informed decisions, ultimately enhancing their pricing strategies and competitiveness in the used car market.
